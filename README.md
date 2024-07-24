@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-how to reach me is by phone: 6105972082
-fun fact: I love yoga
+Welcome to my GitHub. 
